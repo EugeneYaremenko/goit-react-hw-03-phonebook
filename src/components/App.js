@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { uuidv4 } from 'uuid';
+import { v4 as uuidv4 } from 'uuid';
 import Wrapper from './Wrapper/Wrapper';
 import Section from './Section/Section';
 import ContactForm from './ContactForm/ContactForm';
